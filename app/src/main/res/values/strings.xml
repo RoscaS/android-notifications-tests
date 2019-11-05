@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">notifications</string>
+    <string name="btn_notify_txt">Notify</string>
+    <string name="textview_result">Result Activity</string>
+</resources>
